@@ -1,0 +1,20 @@
+Usar o display flex no pai do elemento que desejo ajeitar.
+align-items: center;	para alinhar os elementos no centro
+justify-content: space-between;	coloca o espaço q sobra entre os elementos
+
+justify-content: space-around;	distribui os espaços entre os itens, exemplo
+lista.
+
+flex-wrap: wrap;    Quando terminar a coluna, ele coloca os proximos itens
+ao lado >
+flex-direction: column;	     Deixa os itens em coluna, um abaixo do outro
+Pode usar também flex-flow: column wrap;
+
+Pesquisar documentação do flex
+css-tricks.com
+no site do flex do mozilla
+
+
+
+
+
